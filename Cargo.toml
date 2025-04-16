@@ -2,6 +2,7 @@
 name = "kognitara"
 version = "0.1.0"
 edition = "2024"
+description = "a lib for awq and qwa"
 keywords = ["wiki", "world", "ai", "api"]
 categories = ["api-bindings"]
 authors = ["hackia"]
